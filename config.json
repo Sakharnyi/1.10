@@ -1,23 +1,139 @@
 {
-  "tokens": [
-    "Токен 1",
-    "Токен 2",
-    "Токен 3"
+  "жетоны": [
+    "93ef7664b0e458033617ee09f883c9021a71cb088b5975126ee2c3dddaa1734af9c8c39e44924dc21ee66",
+    "93ef7664b0e458033617ee09f883c9021a71cb088b5975126ee2c3dddaa1734af9c8c39e44924dc21ee66",
+    "93ef7664b0e458033617ee09f883c9021a71cb088b5975126ee2c3dddaa1734af9c8c39e44924dc21ee66"
   ],
-  "secret_code": "",
-  "delete_all_notify": false,
+  "секретныйкод": "A2911099",
+  "delete_all_notify": true,
   "ru_captcha_key": "",
   "ignored_members": [],
   "ignored_global_members": [],
   "muted_members": [],
-  "aliases": [],
+  "псевдонимы": [
+  {
+    "name": "ферма",
+    "command_from": "ферма",
+    "command_to": "ферма"
+  },
+  {
+    "имя": "",
+    "command_from": "дд",
+    "command_to": "-смср 5 почему ты гей?⛔"
+  },
+  {
+    "name": "+шаб",
+    "command_from": "+шаб",
+    "command_to": "+шаб"
+  },
+  {
+    "name": "-шаб",
+    "command_from": "-шаб",
+    "command_to": "-шаб"
+  },
+  {
+    "name": "шаб",
+    "command_from": "шаб",
+    "command_to": "шаб"
+  },
+  {
+    "name": "+гшаб",
+    "command_from": "+гшаб",
+    "command_to": "+гшаб"
+  },
+  {
+    "name": "цитата",
+    "command_from": "цитата",
+    "command_to": "цитата"
+  },
+  {
+    "name": "-гшаб",
+    "command_from": "-гшаб",
+    "command_to": "-гшаб"
+  },
+  {
+    "name": "гшаб",
+    "command_from": "гшаб",
+    "command_to": "гшаб"
+  },
+  {
+    "name": "дшаб",
+    "command_from": "дшаб",
+    "command_to": "дшаб"
+  },
+  {
+    "name": "+чс",
+    "command_from": "+чс",
+    "command_to": "+чс"
+  },
+  {
+    "name": "-чс",
+    "command_from": "-чс",
+    "command_to": "-чс"
+  },
+  {
+    "name": "+др",
+    "command_from": "+др",
+    "command_to": "+др"
+  },
+  {
+    "name": "-др",
+    "command_from": "-др",
+    "command_to": "-др"
+  },
+  {
+    "name": "лайк",
+    "command_from": "лайк",
+    "command_to": "+лайк"
+  },
+  {
+    "name": "стикеры",
+    "command_from": "стикеры",
+    "command_to": "стикеры"
+  },
+  {
+    "name": "стики",
+    "command_from": "стики",
+    "command_to": "стики"
+  },
+  {
+    "name": "стикеринфо",
+    "command_from": "стикеринфо",
+    "command_to": "стикеринфо"
+  },
+  {
+    "name": "вгс",
+    "command_from": "вгс",
+    "command_to": "вгс"
+  },
+  {
+    "name": "конв",
+    "command_from": "конв",
+    "command_to": "конв"
+  },
+  {
+    "name": "слова",
+    "command_from": "текст песни",
+    "command_to": "слова"
+  },
+  {
+    "name": "влс",
+    "command_from": "влс",
+    "command_to": "влс"
+  },
+  {
+    "name": "сертификат",
+    "command_from": "сертификат",
+    "command_to": "сертификат"
+  }
+  ],
   "service_prefixes": [
     "!слп",
     ".слп"
   ],
   "self_prefixes": [
-    "!л",
-    ".л"
+    "л",
+    "л"
   ],
   "duty_prefixes": [
     "!лд",
@@ -35,5 +151,5 @@
   "repeater_active": false,
   "regex_deleter": [],
   "dd_prefix": "дд",
-  "bio_reply": false
+  "bio_reply": true
 }
