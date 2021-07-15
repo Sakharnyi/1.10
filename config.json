@@ -128,8 +128,8 @@
   }
   ],
   "service_prefixes": [
-    "!слп",
-    ".слп"
+    "лп",
+    "лп"
   ],
   "self_prefixes": [
     "л",
