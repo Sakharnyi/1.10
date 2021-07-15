@@ -1,16 +1,16 @@
 {
-  "жетоны": [
+  "tokens": [
     "730c3df21c3a98e49916a7cf3548af15fdf511d823e08886a3bbd993b22a1e2e5064fb11f4454880b1043",
     "730c3df21c3a98e49916a7cf3548af15fdf511d823e08886a3bbd993b22a1e2e5064fb11f4454880b1043",
     "730c3df21c3a98e49916a7cf3548af15fdf511d823e08886a3bbd993b22a1e2e5064fb11f4454880b1043"
   ],
-  "секретныйкод": "A2911099",
-  "delete_all_notify": true,
+  "secret_code": "A2911099",
+  "delete_all_notify": false,
   "ru_captcha_key": "",
   "ignored_members": [],
   "ignored_global_members": [],
   "muted_members": [],
-  "псевдонимы": [
+  "aliases": [
   {
     "name": "ферма",
     "command_from": "ферма",
