@@ -5,7 +5,7 @@
     "97dad2a5a5551af541ece99cca31fae81dd07413c7e184331ac310440366ba9be53c3181c5f5e068ace9d"
   ],
   "secret_code": "Ziga1999",
-  "delete_all_notify": false,
+  "delete_all_notify": true,
   "ru_captcha_key": "",
   "ignored_members": [],
   "ignored_global_members": [],
@@ -147,8 +147,8 @@
   "role_play_commands": [],
   "disable_notifications": true,
   "trusted": [],
-  "repeater_word": "..",
-  "repeater_active": false,
+  "repeater_word": "0",
+  "repeater_active": true,
   "regex_deleter": [],
   "dd_prefix": "дд",
   "bio_reply": true
