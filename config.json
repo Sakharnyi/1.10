@@ -1,16 +1,21 @@
 {
-  "tokens": [
-    "97dad2a5a5551af541ece99cca31fae81dd07413c7e184331ac310440366ba9be53c3181c5f5e068ace9d",
-    "97dad2a5a5551af541ece99cca31fae81dd07413c7e184331ac310440366ba9be53c3181c5f5e068ace9d",
-    "97dad2a5a5551af541ece99cca31fae81dd07413c7e184331ac310440366ba9be53c3181c5f5e068ace9d"
+  "жетоны": [
+    "a4a2225f65a272251cc5145b85540ac60a8dd5020944fc276a57b853668c05c98d3af6d220090427a2cee",
+    "a4a2225f65a272251cc5145b85540ac60a8dd5020944fc276a57b853668c05c98d3af6d220090427a2cee",
+    "a4a2225f65a272251cc5145b85540ac60a8dd5020944fc276a57b853668c05c98d3af6d220090427a2cee",
   ],
-  "secret_code": "Ziga1999",
-  "delete_all_notify": false,
+  "секретныйкод": "Ziga1999",
+  "delete_all_notify": true,
   "ru_captcha_key": "",
   "ignored_members": [],
   "ignored_global_members": [],
   "muted_members": [],
-  "aliases": [
+  "псевдонимы": [
+  {
+    "name": "пинг",
+    "command_from": "пинг",
+    "command_to": "пинг"
+  },
   {
     "name": "ферма",
     "command_from": "ферма",
@@ -139,17 +144,17 @@
     "!лд",
     ".лд"
   ],
-  "sloumo": [],
+  "слоумо": [],
   "auto_exit_from_chat": false,
   "auto_exit_from_chat_delete_chat": false,
   "auto_exit_from_chat_add_to_black_list": false,
   "add_to_friends_on_chat_enter": [],
   "role_play_commands": [],
   "disable_notifications": true,
-  "trusted": [],
-  "repeater_word": "..",
-  "repeater_active": false,
-  "regex_deleter": [],
-  "dd_prefix": "дд",
-  "bio_reply": true
-}
+  "доверенные": [
+  { 
+    "user_id": 375577500
+  }
+  ],
+  "repeater_word": "0",
+  "repeater_active": true,
