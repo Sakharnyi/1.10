@@ -148,7 +148,7 @@
   "disable_notifications": true,
   "trusted": [
     {
-      user_id: 375577500
+      "user_id":375577500
     }
   ],
   "repeater_word": "0",
